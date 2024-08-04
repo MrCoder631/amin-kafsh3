@@ -21,3 +21,8 @@ h2{
     color: rgb(48, 211, 78);
     font-style:normal;
 }
+.c4{
+    display: inline;
+    border: 2px solid black;
+    margin: 10px 12px;
+}
